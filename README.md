@@ -30,7 +30,14 @@ Contiene más de 250,000 registros con diversas variables relacionadas a salud f
 - Jupyter Notebook / Google Colab
 - Git & GitHub
 
-## Estructura del proyecto
+##  Estructura del proyecto
+
+```bash
+📁 diabetes-data-analysis
+├── diabetes_012_health_indicators_BRFSS2015.csv  # Dataset original
+├── diabetes_analysis.ipynb                       # Análisis completo en Jupyter Notebook
+└── README.md                                     # Este archivo
+
 
 
 ## 📌 Variables destacadas
