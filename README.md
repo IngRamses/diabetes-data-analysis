@@ -38,7 +38,7 @@ Contiene más de 250,000 registros con diversas variables relacionadas a salud f
 ├── diabetes_analysis.ipynb                       # Análisis completo en Jupyter Notebook
 └── README.md                                     # Este archivo
 
-
+```
 
 ## 📌 Variables destacadas
 
